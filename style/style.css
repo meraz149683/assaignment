@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+/* primary style */
+.btn-primary {
+    background-color: #4E47FF;
+    color: #FFFFFF;
+}
